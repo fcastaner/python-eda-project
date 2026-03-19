@@ -69,7 +69,7 @@ a) Dataset 'Bank'
 
 Duration: la media de duración de las llamadas es de 258 segundos pero hay llamadas muy cortas y otras muy largas (ej. 4918 segundos).
 
-Campaign: los clientes son contactados 2.5 veces de media y el 75% de los mismos son contactados 3 veces, por lo que en general no se contacta demasiadas veces a los clientes. Sin embargo, vemos que el máximo es 56 contactos, lo cual debe ser un valor extremo.
+Campaign: los clientes son contactados 2.5 veces de media y el 75% de los mismos son contactados menos de 3 veces, por lo que en general no se contacta demasiadas veces a los clientes. Sin embargo, vemos que el máximo es 56 contactos, lo cual debe ser un valor extremo.
 
 Previous: los percentiles muestran valor 0, lo cual significa que la mayoría de clientes no habían sido contactados previamente.
 
