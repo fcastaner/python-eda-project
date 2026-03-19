@@ -1,4 +1,5 @@
-1. Transformación y limpieza de datos del dataset 'bank-additional.csv'
+## 1. Transformación y limpieza de datos del dataset 'bank-additional.csv'
+
 1.1 Carga del conjunto de datos
 Se carga el archivo bank-additional.csv utilizando la biblioteca Pandas en Python. Para ello se utilizó la función read_csv() para poder leer el archivo csv y convertirlo en un DataFrame que posibilite su análisis y manipulación.
 1.2 Exploración y limpieza de datos
