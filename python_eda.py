@@ -7,6 +7,10 @@ import numpy
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import os
+os.chdir(r"C:\Users\fcast\Desktop\Python for EDA")
+print(os.getcwd())
+
 
 # ============================================================
 # 1. TRANSFORMACIÓN Y LIMPIEZA DE DATOS DEL DATASET
