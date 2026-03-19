@@ -4,6 +4,8 @@
 
 Se carga el archivo bank-additional.csv utilizando la biblioteca Pandas en Python. Para ello se utilizó la función read_csv() para poder leer el archivo csv y convertirlo en un DataFrame que posibilite su análisis y manipulación.
 
+Se establece la carpeta desde la que se ejecuta el código para que pueda leer correctamente los archivos y guardar los resultados en las carpetas del proyecto, utilizando la librería 'os'.
+
 1.2 Exploración y limpieza de datos
 
 Para comprobar que los datos se habían importado correctamente se visualizaron las primeras filas del DataFrame utilizando la función head() y se revisaron los nombres de las columnas del dataset utilizando bank.columns y se detectó una columna llamada "Unnamed: 0", la cual fue eliminada con la función 'drop' para evitar tener datos que no contienen información y perjudican el análisis.
