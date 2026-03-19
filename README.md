@@ -301,8 +301,8 @@ Esto sugiere que estas variables no son determinantes en la decisión.
 6.4 Correlación entre variables
 
 Observamos a través de la matriz de correlación de Pearson una fuerte relación entre variables como emp.var.rate y euribor3m, pero en general no se observan correlaciones fuertes entre la mayoría de variables. Sin embargo, sí se identifican algunas relaciones destacables:
-Existe una correlación positiva alta entre emp.var.rate y euribor3m, lo que sugiere que ambas variables están relacionadas con el contexto económico y tienden a moverse en la misma dirección.
-También se observa relación entre emp.var.rate y cons.price.idx, lo cual sugiere de nuevo que estas variables están influenciadas por factores macroeconómicos comunes.
+Existe una correlación positiva alta entre emp.var.rate y euribor3m, lo que sugiere que ambas variables están relacionadas y tienden a moverse en la misma dirección.
+También se observa relación entre emp.var.rate y cons.price.idx, lo cual sugiere de nuevo que estas variables están relacionadas e influenciadas por factores económicos.
 Por otro lado, las variables procedentes del dataset de customers (Income, Kidhome, Teenhome, NumWebVisitsMonth) no presentan correlaciones relevantes ni entre ellas ni con el resto de variables, lo que indica que seguramente no afecten demasiado a la aceptación del depósito.
 Finalmente, se detecta que la variable nr.employed no presenta variabilidad (valor=5191), por lo que no aporta información útil en el análisis de correlación y se ha excluido de la interpretación.
 
