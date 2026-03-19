@@ -127,9 +127,7 @@ Analizamos además la distribución de las variables 'duration', 'campaign', 'In
 
 Duration <--> y: como esperado, si las llamadas son más largas la proporción de aceptación del depósito bancario es mayor.
 
-Campaign <--> y: la media de contactos realizados a los clientes que acaban aceptando el depósito es de 2, mientras que la media de los que no lo aceptan es de casi 3. Además, en su mayoría el nº de contactos necesarios para que el cliente acabe aceptando es de 2, mientras que es 3 para aquellos que acabaron rechazando. 
-
-Esto sugiere una posible relación negativa entre el número de contactos y la aceptación del depósito.
+Campaign <--> y: la media de contactos realizados a los clientes que acaban aceptando el depósito es de 2, mientras que la media de los que no lo aceptan es de casi 3. Además, en su mayoría el nº de contactos necesarios para que el cliente acabe aceptando es de 2, mientras que es 3 para aquellos que acabaron rechazando. Esto sugiere una posible relación negativa entre el número de contactos y la aceptación del depósito.
 
 Income y NumWebVisitsMonth: observamos que la distribución de dichas variables es muy similar acepten o no el depósito. Por lo que no se observan diferencias relevantes en la aceptación del depósito según estas variables.
 
