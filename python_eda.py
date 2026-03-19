@@ -19,13 +19,12 @@ import seaborn as sns
 
 bank = pandas.read_csv("Datos/Bruto/bank-additional.csv")
 
-print(bank.head())
-print(bank.columns)
-
-
 # ------------------------------------------------------------
 # 1.2 Exploración y limpieza inicial de datos
 # ------------------------------------------------------------
+
+print(bank.head())
+print(bank.columns)
 
 bank = bank.drop(columns=["Unnamed: 0"])
 
@@ -124,13 +123,12 @@ print(bank["pdays"].value_counts())
 # ------------------------------------------------------------
 customers = pandas.read_excel("Datos/Bruto/customer-details.xlsx")
 
-print(customers.head())
-print(customers.columns)
-
-
 # ------------------------------------------------------------
 # 2.2 Exploración y limpieza inicial de datos
 # ------------------------------------------------------------
+
+print(customers.head())
+print(customers.columns)
 
 customers = customers.drop(columns=["Unnamed: 0"])
 
