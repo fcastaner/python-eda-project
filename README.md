@@ -313,7 +313,7 @@ Las visualizaciones han permitido reforzar los resultados obtenidos:
 Mapa de calor de correlación: como visto al realizar la matriz de correlación, podemos observar fuertes correlaciones positivas (en rojo) entre la tasa de variación del empleo y el índice de precio al consumo (IPC). Esto se debe a que cuando crece el empleo, crece también el consumo y a su vez los precios ante el aumento de demanda.
 Vemos también fuerte relación positiva entre la tasa de variación del empleo y el tipo de interés de refencia a 3 meses. Esto seguramente se deba a que el aumento de empleo suele provocar aumento de precios, por ello suben también los intereses para tratar de paliar ese aumento de inflación.
 
-Histograma ingresos: muestra la dispersión del nivel de ingresos de los clientes. Se pueden observa grandes diferencias, desde los que ingresan menos de 25000 hasta los que ingresan más de 175000.
+Histograma ingresos: muestra la dispersión del nivel de ingresos de los clientes. Se pueden observar grandes diferencias, desde los que ingresan menos de 25000 hasta los que ingresan más de 175000.
 
 Boxplot duración vs aceptación del depósito: evidencia de forma clara la relación entre la duración de la llamada y la aceptación del depósito, mostrando una mayor aceptación del mismo cuando las llamadas son más largas.
 
