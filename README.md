@@ -319,7 +319,7 @@ Boxplot duración vs aceptación del depósito: evidencia de forma clara la rela
 
 Gráfico de barras por grupos de edad: visualizamos muy claramente como los grupos de edad mayores de 60 años son los más propensos a aceptar el depósito bancario con una tasa de aceptación mayor al 40%. Sin embargo, los clientes de los grupos de edad más jóvenes (menores de 60 años) tienden a tener una tasa de aceptación menor al 20%.
 
-Gráfico de violin: observamos que a pesar de que la mediana de edad tanto en el grupo de los clientes que sí aceptan el depósito, como en los que no lo aceptan es muy similar (cercana a los 40 años), la distribución de los clientes que sí aceptan el depósito está más centrada en las edades más elevadas (más de 60 años). Mientras que la de los clientes que no aceptan es más amplia y con mayor presencia en el público joven. Refuerza por tanto la relación positiva entre edad y probabilidad de suscripción del depósito, a mayor edad, mayor probabilidad de aceptación del mismo.
+Gráfico de violín: observamos que a pesar de que la mediana de edad tanto en el grupo de los clientes que sí aceptan el depósito, como en los que no lo aceptan es muy similar (cercana a los 40 años), la distribución de los clientes que sí aceptan el depósito está más centrada en las edades más elevadas (más de 60 años). Mientras que la de los clientes que no aceptan es más amplia y con mayor presencia en el público joven. Refuerza por tanto la relación positiva entre edad y probabilidad de suscripción del depósito, a mayor edad, mayor probabilidad de aceptación del mismo.
 
 Gráfico circular: confirma la baja tasa de aceptación general del depósito bancario, siendo tan solo 11,3% de los clientes los que suscriben el mismo.
 
