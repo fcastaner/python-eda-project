@@ -382,4 +382,4 @@ plt.savefig("Gráficos/circular_suscripcion.png")
 plt.show()
 
 # Guardado del dataset transformado
-bank.to_csv("Datos/Transformados/bank_transformado.csv", index=False)
+bank.to_csv("Datos/Transformado/bank_transformado.csv", index=False)
