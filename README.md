@@ -169,7 +169,7 @@ Título del gráfico: usamos el código plt.title("Mapa de Calor de Correlación
 
 Ajuste del gráfico: usamos el código plt.tight_layout() para que todos los parámetros incluidos en el mismo (títulos, valores, etiquetas, etc.) quepa bien y el gráfico se visualice bien, sin solapes ni márgenes estrechos.
 
-Guardar la imagen del gráfico: usamos el código plt.savefig("mapa_calor_correlacion.png") para que se guarde el mapa de calor como archivo png en nuestra carpeta del proyecto.
+Guardar la imagen del gráfico: usamos el código plt.savefig("Gráficos/mapa_calor_correlacion.png") para que se guarde el mapa de calor como archivo png en nuestra carpeta del proyecto.
 
 Mostrar el gráfico: usamos el código plt.show() para que nos muestre el mapa de calor.
 
